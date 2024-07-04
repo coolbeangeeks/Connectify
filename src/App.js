@@ -56,13 +56,11 @@ const App = () => {
   ]);
 
   return (
-    <>
+  
     <BrowserRouter basename="/Connectify">
     <RouterProvider router={router} />
     </BrowserRouter>
     
-    
-    </>
     
   )
 }

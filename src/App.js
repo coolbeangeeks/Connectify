@@ -11,6 +11,7 @@ import {
   createBrowserRouter,
   RouterProvider,  Outlet
 } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 const App = () => {
   const Layout=()=>{
     return (
@@ -56,7 +57,10 @@ const App = () => {
 
   return (
     <>
+    <BrowserRouter basename="/Connectify">
     <RouterProvider router={router} />
+    </BrowserRouter>
+    
     
     </>
     

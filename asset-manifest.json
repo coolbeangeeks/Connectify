@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Connectify/static/css/main.b75889ab.css",
+    "main.js": "/Connectify/static/js/main.33837995.js",
+    "index.html": "/Connectify/index.html",
+    "main.b75889ab.css.map": "/Connectify/static/css/main.b75889ab.css.map",
+    "main.33837995.js.map": "/Connectify/static/js/main.33837995.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b75889ab.css",
+    "static/js/main.33837995.js"
+  ]
+}

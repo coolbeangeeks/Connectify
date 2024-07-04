@@ -3,11 +3,6 @@ import ReactDOM from 'react-dom/client';
 // import './App.css';
 import App from './App';
 // import reportWebVitals from './reportWebVitals';
-
-import Register from './Pages/Register/Register';
-import Login from './Pages/Login/Login';
-  
-
   
 
 

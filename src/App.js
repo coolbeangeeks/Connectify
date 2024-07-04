@@ -9,9 +9,7 @@ import Profile from './Pages/Profile/Profile'
 import './style.scss';
 import {
   createBrowserRouter,
-  RouterProvider,
-  Route,
-  Outlet
+  RouterProvider,  Outlet
 } from "react-router-dom";
 const App = () => {
   const Layout=()=>{
